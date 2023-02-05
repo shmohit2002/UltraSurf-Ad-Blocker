@@ -6,7 +6,7 @@ chrome.declarativeNetRequest.updateDynamicRules({
             'type': 'block'
         },
         'condition': {
-            'urlFilter': '*.ultrasurfing.com',
+            'urlFilter': '*ultrasurfing.com',
             'resourceTypes': ['main_frame','media']
         }
     }],
