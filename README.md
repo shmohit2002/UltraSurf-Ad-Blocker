@@ -1,5 +1,5 @@
 # UltraSurf-Ad-Blocker
-This repository is to block the ads from the ultrasurf tabs opening automatically and consuming data<br>
+This repository is to block the ads from the ultrasurf tabs that opens automatically and consumes data<br>
 # Chrome Web Store
 Install from Chrome Web Store directly by clicking [here](https://chrome.google.com/webstore/detail/ultrasurf-ad-blocker/lipagiadamcpecbedfanagiflejiiand)
 # Issues
