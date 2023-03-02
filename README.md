@@ -6,4 +6,4 @@ Install from Chrome Web Store directly by clicking [here](https://chrome.google.
 To open a new issue, click [here](https://github.com/shmohit2002/UltraSurf-Ad-Blocker/issues)
 
 # Releases
-To download the latest version check the latest release [here](https://github.com/shmohit2002/UltraSurf-Ad-Blocker/releases)
+To download the latest release click [here](https://github.com/shmohit2002/UltraSurf-Ad-Blocker/releases)
